@@ -5,7 +5,6 @@ import java.util.Arrays;
 import java.util.List;
 
 public class MatchMaker {
-
 	public static List<String> horoscopes = Arrays.asList("Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo",
 			"Libra", "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces");
 	
